@@ -2,7 +2,7 @@
 // Gets game Surface and Context
 var gameSurface = document.getElementById("gameSurface");
 var context = gameSurface.getContext("2d");
-
+ 
 //Defines orb figures
 var orbRadius = 8;
 var posX = gameSurface.width / 2;
